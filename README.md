@@ -119,3 +119,5 @@ I am learning Git operations as part of my DevOps journey.
 
 - Practised cloning a repository.
 - Next: staging, committing, and pushing changes.
+
+- GitHub change: Practising merge conflict resolution.
