@@ -113,4 +113,9 @@ I'm working toward becoming a capable DevOps Engineer by strengthening my founda
 
 ---
 
-*Building skills one step at a time. Working toward my first DevOps opportunity in 2027.*
+## Git Practice
+
+I am learning Git operations as part of my DevOps journey.
+
+- Practised cloning a repository.
+- Next: staging, committing, and pushing changes.
