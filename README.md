@@ -121,3 +121,10 @@ I am learning Git operations as part of my DevOps journey.
 - Next: staging, committing, and pushing changes.
 
 - GitHub change: Practising merge conflict resolution.
+
+- ### 1. Apache Deployment Automation
+
+- **Description:** Automated Apache web server installation and startup on Ubuntu using a Bash script.
+- **Technologies:** Linux, Bash, Apache, `curl`, Git, Bitbucket.
+- **Key skills:** Shell scripting, service management, and deployment verification.
+- **Repository:** [View the project on Bitbucket](https://bitbucket.org/jayprakah-dodke/shell-scripting-automating-apache-deployment/src/main/)
